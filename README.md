@@ -1,8 +1,6 @@
 # Awesome-Law-NLP-Research-Work
 Summary of NLP related research work in the field of law in recent years, contains paper, competition and some excellent projects, online system.
 Most of them are Chinese researches.
-**`It will be updated gradually.`**
-
 
 
 ----------
